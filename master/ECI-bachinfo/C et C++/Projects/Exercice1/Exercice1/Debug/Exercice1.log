@@ -1,0 +1,31 @@
+﻿La génération a démarré 30/09/2014 18:51:16.
+     1>Projet "d:\Users\Test\documents\visual studio 2010\Projects\Exercice1\Exercice1\Exercice1.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\Exercice1.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>d:\users\test\documents\visual studio 2010\projects\exercice1\exercice1\main.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : voir la déclaration de 'scanf'
+     1>d:\users\test\documents\visual studio 2010\projects\exercice1\exercice1\main.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : voir la déclaration de 'scanf'
+     1>d:\users\test\documents\visual studio 2010\projects\exercice1\exercice1\main.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : voir la déclaration de 'scanf'
+     1>d:\users\test\documents\visual studio 2010\projects\exercice1\exercice1\main.cpp(21): warning C4552: '-' : opérateur sans effet ; opérateur avec effet secondaire attendu
+     1>d:\users\test\documents\visual studio 2010\projects\exercice1\exercice1\main.cpp(40): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : voir la déclaration de 'getch'
+     1>d:\users\test\documents\visual studio 2010\projects\exercice1\exercice1\main.cpp(21): warning C4102: 'delta' : étiquette non référencée
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\users\test\documents\visual studio 2010\Projects\Exercice1\Debug\Exercice1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Exercice1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\users\test\documents\visual studio 2010\Projects\Exercice1\Debug\Exercice1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\users\test\documents\visual studio 2010\Projects\Exercice1\Debug\Exercice1.lib" /MACHINE:X86 Debug\Main.obj
+         LINK : d:\users\test\documents\visual studio 2010\Projects\Exercice1\Debug\Exercice1.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+         Exercice1.vcxproj -> d:\users\test\documents\visual studio 2010\Projects\Exercice1\Debug\Exercice1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\users\test\documents\visual studio 2010\Projects\Exercice1\Debug\Exercice1.exe;#1" /manifest Debug\Exercice1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\Exercice1.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\Exercice1.lastbuildstate".
+     1>Génération du projet "d:\Users\Test\documents\visual studio 2010\Projects\Exercice1\Exercice1\Exercice1.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.39
