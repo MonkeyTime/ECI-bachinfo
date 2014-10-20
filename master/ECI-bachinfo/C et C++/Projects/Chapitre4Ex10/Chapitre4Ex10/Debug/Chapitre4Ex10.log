@@ -1,0 +1,24 @@
+﻿La génération a démarré 20/10/2014 21:23:18.
+     1>Projet "d:\Users\Test\documents\visual studio 2010\Projects\Chapitre4Ex10\Chapitre4Ex10\Chapitre4Ex10.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\Chapitre4Ex10.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>d:\users\test\documents\visual studio 2010\projects\chapitre4ex10\chapitre4ex10\main.cpp(27): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+     1>d:\users\test\documents\visual studio 2010\projects\chapitre4ex10\chapitre4ex10\main.cpp(45): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : voir la déclaration de 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\users\test\documents\visual studio 2010\Projects\Chapitre4Ex10\Debug\Chapitre4Ex10.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chapitre4Ex10.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\users\test\documents\visual studio 2010\Projects\Chapitre4Ex10\Debug\Chapitre4Ex10.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\users\test\documents\visual studio 2010\Projects\Chapitre4Ex10\Debug\Chapitre4Ex10.lib" /MACHINE:X86 Debug\Main.obj
+         LINK : d:\users\test\documents\visual studio 2010\Projects\Chapitre4Ex10\Debug\Chapitre4Ex10.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+         Chapitre4Ex10.vcxproj -> d:\users\test\documents\visual studio 2010\Projects\Chapitre4Ex10\Debug\Chapitre4Ex10.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\users\test\documents\visual studio 2010\Projects\Chapitre4Ex10\Debug\Chapitre4Ex10.exe;#1" /manifest Debug\Chapitre4Ex10.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\Chapitre4Ex10.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\Chapitre4Ex10.lastbuildstate".
+     1>Génération du projet "d:\Users\Test\documents\visual studio 2010\Projects\Chapitre4Ex10\Chapitre4Ex10\Chapitre4Ex10.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.82
